@@ -1,7 +1,7 @@
 import requests
 import json
 import random
-import numpy as np
+
 
 get_url = 'http://localhost:3000'
 post_url = 'http://localhost:4000'
